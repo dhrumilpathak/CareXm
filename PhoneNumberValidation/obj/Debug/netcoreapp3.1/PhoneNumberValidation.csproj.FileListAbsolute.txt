@@ -1,0 +1,14 @@
+D:\Dhrumil\Code\PhoneNumberFormatingFunction\PhoneNumberValidation\PhoneNumberValidation\bin\Debug\netcoreapp3.1\PhoneNumberValidation.exe
+D:\Dhrumil\Code\PhoneNumberFormatingFunction\PhoneNumberValidation\PhoneNumberValidation\bin\Debug\netcoreapp3.1\PhoneNumberValidation.deps.json
+D:\Dhrumil\Code\PhoneNumberFormatingFunction\PhoneNumberValidation\PhoneNumberValidation\bin\Debug\netcoreapp3.1\PhoneNumberValidation.runtimeconfig.json
+D:\Dhrumil\Code\PhoneNumberFormatingFunction\PhoneNumberValidation\PhoneNumberValidation\bin\Debug\netcoreapp3.1\PhoneNumberValidation.runtimeconfig.dev.json
+D:\Dhrumil\Code\PhoneNumberFormatingFunction\PhoneNumberValidation\PhoneNumberValidation\bin\Debug\netcoreapp3.1\PhoneNumberValidation.dll
+D:\Dhrumil\Code\PhoneNumberFormatingFunction\PhoneNumberValidation\PhoneNumberValidation\bin\Debug\netcoreapp3.1\PhoneNumberValidation.pdb
+D:\Dhrumil\Code\PhoneNumberFormatingFunction\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\netcoreapp3.1\PhoneNumberValidation.csproj.AssemblyReference.cache
+D:\Dhrumil\Code\PhoneNumberFormatingFunction\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\netcoreapp3.1\PhoneNumberValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhrumil\Code\PhoneNumberFormatingFunction\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\netcoreapp3.1\PhoneNumberValidation.AssemblyInfoInputs.cache
+D:\Dhrumil\Code\PhoneNumberFormatingFunction\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\netcoreapp3.1\PhoneNumberValidation.AssemblyInfo.cs
+D:\Dhrumil\Code\PhoneNumberFormatingFunction\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\netcoreapp3.1\PhoneNumberValidation.csproj.CoreCompileInputs.cache
+D:\Dhrumil\Code\PhoneNumberFormatingFunction\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\netcoreapp3.1\PhoneNumberValidation.dll
+D:\Dhrumil\Code\PhoneNumberFormatingFunction\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\netcoreapp3.1\PhoneNumberValidation.pdb
+D:\Dhrumil\Code\PhoneNumberFormatingFunction\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\netcoreapp3.1\PhoneNumberValidation.genruntimeconfig.cache
